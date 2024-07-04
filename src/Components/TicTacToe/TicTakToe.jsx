@@ -23,6 +23,7 @@ export const TicTakToe = () => {
     let box9 = useRef(null);
 
     let box_array = [box1,box2,box3,box4,box5,box6,box7,box8,box9];
+    
     // function toggle for boxes whenever we click on them this function will be executed
     const toggle = (e,num) =>{
         if(lock){
