@@ -8,7 +8,8 @@ This is a simple Tic Tac Toe game built using React.
 - Responsive design
 - Reset the game to play again
 
-#steps to create the project 
+##steps to create the project 
+
 installation done by using 
 npx create-react-app .
 => . to create project in current folder
